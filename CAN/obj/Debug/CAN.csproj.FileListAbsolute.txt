@@ -1,0 +1,6 @@
+C:\GitHub\CAN\CAN\obj\Debug\CAN.csprojResolveAssemblyReference.cache
+C:\GitHub\CAN\CAN\bin\Debug\CAN.dll
+C:\GitHub\CAN\CAN\bin\Debug\CAN.pdb
+C:\GitHub\CAN\CAN\bin\Debug\log4net.dll
+C:\GitHub\CAN\CAN\obj\Debug\CAN.dll
+C:\GitHub\CAN\CAN\obj\Debug\CAN.pdb
